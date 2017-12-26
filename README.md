@@ -3,7 +3,7 @@
 
 ## 아메리카노
 
-![Image of coffee](http://image.istarbucks.co.kr/upload/store/skuimg/2015/08/[110563]_20150813222100205.jpg)
+![Image of Americano](http://image.istarbucks.co.kr/upload/store/skuimg/2015/08/[110563]_20150813222100205.jpg)
 단어를 해석하자면 '미국식 커피'로, 말 그대로 '유럽식 커피에 비해 옅은 농도인 미국식 커피 스타일'을 일컫는 말이다.
 
 ## 카페라떼
